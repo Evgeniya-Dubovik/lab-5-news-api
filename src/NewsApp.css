@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Karla', serif;
+    color: #fff;
+    background: #1d1d21;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1 0 auto;
+}

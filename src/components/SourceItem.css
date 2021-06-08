@@ -1,0 +1,13 @@
+.source__item {
+    height: 45px;
+    background: 0;
+    box-sizing: border-box;
+    outline: none;
+    margin-left: 10px;
+    border: 2px solid #30c5ff;
+    padding: 0 1em;
+    font-size: 1.2em;
+    color: #fff;
+    cursor: pointer;
+    white-space: nowrap;
+}

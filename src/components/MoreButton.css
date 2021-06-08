@@ -1,0 +1,21 @@
+.load-more-btn {
+    margin: 2em auto;
+    width: 20vw;
+    height: 20vw;
+    border: 2px solid #30c5ff;
+    padding: 0 1em;
+    border-radius: 50%;
+    background-color: white;
+    color: #a2a2a2;
+    font-weight: bold;
+    font-size: 2vw;
+    transition: all .5s;
+}
+
+.load-more-btn:hover {
+    transform: scale(1.2);
+}
+
+.load-more-btn:focus {
+    outline: none;
+}

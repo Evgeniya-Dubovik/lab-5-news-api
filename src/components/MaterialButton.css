@@ -1,0 +1,13 @@
+.material-btn {
+    background-color: #00adf4;
+    border-style: none;
+    color: #fff;
+    font-family: "Bitstream Charter", sans-serif;
+    font-weight: bold;
+    padding: 0 2em;
+    font-size: 1em;
+}
+
+.material-btn:hover {
+    background-color: #00ad24;
+}
